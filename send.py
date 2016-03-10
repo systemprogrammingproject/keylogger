@@ -11,4 +11,4 @@ mail.login('sd@hotmail.com' , '123456' )
 mail.sendmail ('sd@gmail.com' , 'sd@gmail.com' , content)
 mail.quit()
 print("yess")
-
+#deneme amaçlı gönderildi.
